@@ -1,0 +1,3 @@
+rootProject.name = 'EWallet'
+
+include ':app'
